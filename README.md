@@ -1,6 +1,6 @@
 # Wheat Fusarium Head Blight resistance evaluation platform
 
-Shuchen Liu (柳书臣) <sup>1</sup>, Jie Jie (戴杰) <sup>1</sup>, Ji Zhou (周济)<sup>1,2*</sup>
+Shuchen Liu (柳书臣) <sup>1</sup>, Jie Dai (戴杰) <sup>1</sup>, Ji Zhou (周济)<sup>1,2*</sup>
 
 The main files are as follows:
 
