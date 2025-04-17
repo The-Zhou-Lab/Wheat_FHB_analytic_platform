@@ -10,15 +10,15 @@ The main files are as follows:
 
 (3) Result - Resistance level evaluation result (Batch processing). 
 
-(4) Supplementary tables - Supporting materials for wheat FHB resistance evaluation platform
+(4) Supplementary tables - Supporting materials for wheat FHB resistance evaluation platform.
 
-(5) ultralytics - Scripts required for the YOLOv8-WFD model to run
+(5) ultralytics - Scripts required for the YOLOv8-WFD model to run.
 
-(4) Step1_processing.ipynb - Python-based source coce that contains the pre-processing(Red tags extracted).
+(6) Step1_processing.ipynb - Python-based source coce that contains the pre-processing(Red tags extracted).
 
-(5) Step2_FHB_related_traits_extract.ipynb - Python-based source coce that contains the FHB traits extract at different scales in wheat.
+(7) Step2_FHB_related_traits_extract.ipynb - Python-based source coce that contains the FHB traits extract at different scales in wheat.
 
-(6) Step3_Resistance_evaluation.ipynb - Python-based source coce that contains the model integration and resistance evaluation.
+(8) Step3_Resistance_evaluation.ipynb - Python-based source coce that contains the model integration and resistance evaluation.
 
 To install Python, Anaconda and Libraries
 If you wish to run from the source code provided in this project, you will need to set up Python on your system.
