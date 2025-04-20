@@ -2,6 +2,8 @@
 
 Shuchen Liu (柳书臣) <sup>1</sup>, Jie Dai (戴杰) <sup>1</sup>, Ji Zhou (周济)<sup>1,2*</sup>
 
+Shuchen Liu, LiushuChen@stu.njau.edu.cn, orcid: 0009-0003-3218-4473; Jie Dai, DaiJie@stu.njau.edu.cn, orcid: 0000-0002-3941-576X; Ji Zhou, Ji.Zhou@njau.edu.cn or Ji.Zhou@NIAB.com, orcid: 0000-0002-5752-5524
+
 The main files are as follows:
 
 (1) OFHB dataset.zip - The Wheat Fusarium head blight (OFHB) training dataset.
