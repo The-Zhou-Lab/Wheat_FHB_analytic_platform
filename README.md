@@ -42,4 +42,4 @@ If you wish to run from the source code provided in this project, you will need 
 
 Some dependencies of the Jupyter notebooks
 
-Scikit-image =0.21; ultralytics =8.1.24; Pandas=2.0; Numpy=1.24.2; Scipy=1.9.1; joblib=1.3.2; OpenCV=4.8.1
+Scikit-image =0.21; </br>ultralytics =8.1.24; </br>Pandas=2.0; </br>Numpy=1.24.2; </br>Scipy=1.9.1; </br>joblib=1.3.2; </br>OpenCV=4.8.1
