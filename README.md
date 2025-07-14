@@ -42,8 +42,8 @@ If you wish to run from the source code provided in this project, you will need 
 
 Some dependencies of the Jupyter notebooks:
 
-       Scikit-image =0.21;
-       ultralytics =8.1.24;
+       Scikit-image=0.21;
+       ultralytics=8.1.24;
        Pandas=2.0;
        Numpy=1.24.2;
        Scipy=1.9.1;
