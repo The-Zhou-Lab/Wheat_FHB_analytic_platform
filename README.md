@@ -8,19 +8,19 @@ The main files are as follows:
 
 (1) OFHB dataset.zip - The Wheat Fusarium head blight (OFHB) training dataset.
 
-(2) Model_save - The YOLOv8-WFD model and Resistance classfication model.
+(2) Trained deep learning models - The YOLOv8-WFD model and Resistance classfication model.
 
-(3) Result - Resistance level evaluation result (Batch processing). 
+(3) Analysis results - Resistance level evaluation result (Batch processing). 
 
 (4) Supplementary tables - Supporting materials for wheat FHB resistance evaluation platform.
 
 (5) ultralytics - Scripts required for the YOLOv8-WFD model to run.
 
-(6) Step1_processing.ipynb - Python-based source code that contains the pre-processing(Red tags extracted).
+(6) Step1_pre-processing.ipynb - Python-based source code that contains the pre-processing(Red tags extracted).
 
-(7) Step2_FHB_related_traits_extract.ipynb - Python-based source code that contains the FHB traits extract at different scales in wheat.
+(7) Step2_FHB-trait-analysis.ipynb - Python-based source code that contains the FHB traits extract at different scales in wheat.
 
-(8) Step3_Resistance_evaluation.ipynb - Python-based source code that contains the model integration and resistance evaluation.
+(8) Step3_Resistance-evaluation.ipynb - Python-based source code that contains the model integration and resistance evaluation.
 
 To install Python, Anaconda and Libraries
 If you wish to run from the source code provided in this project, you will need to set up Python on your system.
