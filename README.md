@@ -16,11 +16,11 @@ The main files are as follows:
 
 (5) ultralytics - Scripts required for the YOLOv8-WFD model to run.
 
-(6) Step1_pre-processing.ipynb - Python-based source code that contains the pre-processing(Red tags extracted).
+(6) Step1_pre_processing.ipynb - Python-based source code that contains the pre-processing(Red tags extracted).
 
-(7) Step2_FHB-trait-analysis.ipynb - Python-based source code that contains the FHB traits extract at different scales in wheat.
+(7) Step2_FHB_trait_analysis.ipynb - Python-based source code that contains the FHB traits extract at different scales in wheat.
 
-(8) Step3_Resistance-evaluation.ipynb - Python-based source code that contains the model integration and resistance evaluation.
+(8) Step3_Resistance_evaluation.ipynb - Python-based source code that contains the model integration and resistance evaluation.
 
 To install Python, Anaconda and Libraries
 If you wish to run from the source code provided in this project, you will need to set up Python on your system.
